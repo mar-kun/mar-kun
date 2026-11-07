@@ -75,8 +75,5 @@ interests: ["Drinking", "game"]
 ### GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=mar-kun&theme=ocean-gradient)](https://git.io/streak-stats)
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mar-kun&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
-</div>
 
 </div>
